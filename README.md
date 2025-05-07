@@ -1,4 +1,4 @@
-Nombre y apellido
+Nombre y apellido: Lucero Juan Ignacio
 
 Comisión: K1202
 
